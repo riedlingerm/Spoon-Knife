@@ -1,7 +1,8 @@
 Some more details on the project.
 
 * first point
-** subpoint
+    * subpoint
+    * second sub
 * second point
 
 
